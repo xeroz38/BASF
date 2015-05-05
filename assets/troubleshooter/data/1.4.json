@@ -1,0 +1,19 @@
+{
+    "appearance":"Color differences.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Non-homogeneous distribution of colorant; accumulation of colorant; unsuitable color batch; alignment orientation of the usually inorganic pigments by flow processes;thermal pigment damage.</td></tr><tr><td valign='top'>2.</td><td valign='top'>\"Dead spots\" in the plasticizing unit or hot runner system.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Contamination</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Use of suitable colorants and batches; ensure good homogenization and dispersion; avoid thermal overloading.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Avoid dead spots in the plasticizing unit or hot runner system.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Ensure good cleaning of the plasticizing unit.</td></tr></table>",
+    "picture":[
+        {
+            "file":"1.4/figure1.png",
+            "caption":"Fig. 1.4.1: Color streaks (inhomogeneous distribution of colorant)"
+        },
+        {
+            "file":"1.4/figure2.png",
+            "caption":"Fig. 1.4.2: Color streaks due to deposits of material due to \"dead spots\" in a hot runner system"
+        },
+        {
+            "file":"1.4/figure3.png",
+            "caption":"Fig. 1.4.3: Color streaks in transmitted light; magnification 7:1"
+        }
+    ]
+}

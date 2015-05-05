@@ -1,0 +1,19 @@
+{
+    "appearance":"<table><tr><td valign='top'>1.</td><td valign='top'>The surface exhibits ejector marks (differences in gloss, stress whitening and deformation).</td></tr><tr><td valign='top'>2.</td><td valign='top'>The surface exhibits ejector marks (differences in gloss, stress whitening and deformation).</td></tr><tr><td valign='top'>3.</td><td valign='top'>Warpage</td></tr></table>",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Demolding system: too few or incorrectly positioned ejector pins or the effective surface area of the pins is too small.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Undercuts, scratches or grooves.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Unsuitable geometry of the moldings, e.g. a highly or disadvantageously ribbed part.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Shrinkage on the core during molding/cooling. Ejected part temperature too high. Ejector speed/pressure too high.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Overpacking the molded part.</td></tr><tr><td valign='top'>6.</td><td valign='top'>Inadequate drafts. Draft not matched to the surface structure.</td></tr><tr><td valign='top'>7.</td><td valign='top'>Unbalanced mold temperature.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Make sure deformation occurs during ejection and is not actually warpage.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Optimize the demolding system. Ensure sufficient number of ejector pins. Ejector pins should be placed in areas where high demolding forces are expected (e.g. ribs)</td></tr><tr><td valign='top'>3.</td><td valign='top'>Check mold for regular surface condition and if necessary remedy any defects.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Design the molding in line with the nature of the plastic.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Cool core more intensively. Increase cooling time, reduce ejector speed/pressure.</td></tr><tr><td valign='top'>6.</td><td valign='top'>Increase the setting time, check changeover from injection pressure to holding pressure (avoid overpacking) and reduce holding pressure. Enlarge the drafts.</td></tr><tr><td valign='top'>7.</td><td valign='top'>Reduce cavity pressure through injection speed and melt temperature.</td></tr></table>",
+    "picture":[
+        {
+            "file":"10/figure1.png",
+            "caption":"Fig. 10.1: Ejector marks due to the effective surface area of the ejector pins being too small"
+        },
+        {
+            "file":"10/figure2.png",
+            "caption":"Fig. 10.2: Deformed part as a result of overpacking and shrinkage onto the core of the mold"
+        },
+        {
+            "file":"10/figure3.png",
+            "caption":"Fig. 10.3: Demolding fracture; an excessively large undercut causes the bracket to be torn off"
+        }
+    ]
+}

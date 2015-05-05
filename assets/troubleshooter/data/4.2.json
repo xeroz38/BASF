@@ -1,0 +1,11 @@
+{
+    "appearance":"Melt shrinkage process creates a visible (or invisible in non transparent materials) cavity (like air bubble) in the molded part.",
+    "cause":"Solidifying layers have already shrunk, when a melted core is in the cooling process. The melt cannot shrink the total plastic mass thus creates cavities or voids.",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Optimize hold pressure and time.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Increase mold temperature.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Enlarge sprue channel, gate and machine nozzle.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Increase melt temperature.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Provide melt cushion.</td></tr><tr><td valign='top'>6.</td><td valign='top'>Decrease injection speed.</td></tr></table>",
+    "picture":[
+        {
+            "file":"4.2/figure1.png",
+            "caption":"Fig. 4.2: Air bubble cut open"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "appearance":"Molding is incompletely filled by injection.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Melt temperature, mold surface temperature and injection speed are too low.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Incompletety plasticized plastic melt.</td></tr><tr><td valign='top'>3.</td><td valign='top'>The injection pressure is insufficient.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Screw diameter is too big.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Inadequate mold venting.</td></tr><tr><td valign='top'>6.</td><td valign='top'>Inadequate flowability of the plastic melt.</td></tr><tr><td valign='top'>7.</td><td valign='top'>The mold was designed with wall thicknesses which are too small or with long, thin-walled ribs or long flow paths.</td></tr><tr><td valign='top'>8.</td><td valign='top'>Unfavorable nozzle bore and sprue geometry.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Increase the melt and/or mold surface temperatures together with the injection speed.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Increase the shot volume and check the nonreturn valve. (Shot volume too low; no melt cushion). </td></tr><tr><td valign='top'>3.</td><td valign='top'>Increase back pressure.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Match the injection unit to fit both pressure and melt volume requirements.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Improve mold venting/reduce clamping force.</td></tr><tr><td valign='top'>6.</td><td valign='top'>Switch to an easy flowing material grade.</td></tr><tr><td valign='top'>7.</td><td valign='top'>Modify the mold to suit the material.</td></tr><tr><td valign='top'>8.</td><td valign='top'>Enlarge the nozzle bore, runner and sprue cross section.</td></tr></table>",
+    "picture":[
+        {
+            "file":"13/figure1.png",
+            "caption":"Fig. 13.1: Crosspiece incompletely formed; scanning electron micrograph, magnification 7:1"
+        },
+        {
+            "file":"13/figure2.png",
+            "caption":"Fig. 13.2: Detail from Fig. 13.1; scanning electron micrograph, magnification 50:1"
+        }
+    ]
+}

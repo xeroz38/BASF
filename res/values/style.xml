@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="BASFTheme" parent="@android:style/Theme.NoTitleBar">
+        <item name="android:textViewStyle">@style/BASFTextViewStyle</item>
+    </style>
+
+    <style name="BASFTextViewStyle" parent="@android:style/Widget.TextView">
+        <item name="android:textColor">#FFFFFF</item>
+    </style>
+
+</resources>

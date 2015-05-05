@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.basf.catalog"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="8" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:icon="@drawable/app_icon"
+        android:label="@string/app_name"
+        android:theme="@style/BASFTheme" >
+        <activity
+            android:name="com.basf.catalog.ui.TermAndConditionActivity"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Dialog" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.SplashScreen"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.MainMenuActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.productfinder.ProductFinderActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.productfinder.ExpandableProductFinderActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.productfinder.DetailProductFinderActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.troubleshooter.TroubleshooterActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.troubleshooter.DetailTroubleshooterActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.technicalsupport.TechnicalSupportActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.technicalsupport.DetailTechnicalSupportActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.quiz.QuizActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.quiz.QuizQuestionActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+
+        <provider
+            android:name=".provider.BASFProvider"
+            android:authorities="com.basf.catalog" />
+
+        <activity
+            android:name="com.basf.catalog.ui.favorite.FavoriteActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+        <activity
+            android:name="com.basf.catalog.ui.contactus.ContactUsActivity"
+            android:label="@string/app_name"
+            android:theme="@style/BASFTheme" >
+        </activity>
+    </application>
+
+</manifest>

@@ -1,0 +1,63 @@
+/* CSS Document */
+body {
+margin:0px;
+background-color:#efefef;
+}
+
+.header{
+font-family:sans-serif;
+font-size:2em;
+color:#ffffff;
+font-style:75 bold;
+}
+.header-coloum{
+height:74px;
+background-color:#21a0d2;
+padding-top:25;
+}
+
+.coloum{
+background-color:#efefef;
+
+}
+
+.coloum-text{
+padding-top:10;
+padding-bottom:10;
+padding-right:10;
+}
+
+.sub-text{
+color:#333333;
+font-family:sans-serif;
+}
+
+.coloum-image{
+padding-top:10;
+padding-bottom:10;
+padding-right:10;
+border-bottom:solid 1px #CCCCCC;
+}
+
+.section{
+font-size:1.2em;
+color:#333333;
+font-family:sans-serif;
+font-weight:bold;
+}
+
+.main-table{
+border-color: #600;
+border-width: 0 0 0 0;
+border-style: solid;
+}
+
+.td-content{
+border-bottom:solid 1px #CCCCCC;
+}
+
+.li-style{
+color:#21a0d2;
+
+}
+

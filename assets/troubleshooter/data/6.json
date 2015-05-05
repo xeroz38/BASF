@@ -1,0 +1,11 @@
+{
+    "appearance":"Usually not discernible from the outside except in the case of transparent materials.<br/>Parts, usually thick-walled, which have been cut open reveal cavities.",
+    "cause":"As for Item 5.<br/>Exception: When the outer skin is thick enough to absorb the shrinkage stresses.<br/>The melt in the interior is pulled towards the outside (molding surface) so that vacuum cavities are produced in the region which is still plastic.<br/>This occurs only when the molding has cooled for long enough.",
+    "correction":"Avoid large differences in wall thickness and accumulations of material (e.g. by means of rib structures having large radii, fixing domes, etc.).<br/>Check for correct temperature control; set holding pressure, holding pressure time and melt cushion to adequate dimensions.<br/>Gate at the greatest wall thickness; design the sprue and gate cross sections in keeping with the material and molded part.",
+    "picture":[
+        {
+            "file":"6/figure1.png",
+            "caption":"Fig. 6.1: Voids at the end of the flow path in a cup"
+        }
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "appearance":"Silvery or dark surface streak and in exceptional cases black discolorations.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Damage to plastic melt due to excessively high temperatures or long residence times resulting in gaseous decomposition of product.</td></tr><tr><td valign='top'>2.</td><td valign='top'>High shear heating due to small gate cross sections or by sharp changes of direction in the mold.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Reduce injection speed.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Avoid undersized gates and sharp changes in direction (shear intensive areas) in the mold.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Check the controller of the hot runner system and the barrel heater.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Reduce melt temperature, screw speed (rpm), residence time (if necessary use a smaller plasticizing unit) and back pressure.</td></tr></table>",
+    "picture":[
+        {
+            "file":"1.2/figure1.png",
+            "caption":"Fig. 1.2.1: Silvery surface streaks"
+        },
+        {
+            "file":"1.2/figure2.png",
+            "caption":"Fig. 1.2.2: Black discolorations on a transparent part"
+        }
+    ]
+}

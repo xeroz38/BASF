@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories multilevel="false"><category file="interior/airbag_housing.xml" text="Airbag housings"/>
+<category file="interior/ashtrays.xml" text="Ashtrays"/>
+<category file="interior/center_consoles.xml" text="Center consoles"/>
+<category file="interior/clips_and_fasteners.xml" text="Clips and fasteners"/>
+<category file="interior/door_latches_and_window_motor.xml" text="Door latches and window motor"/>
+<category file="interior/door_and_window_handles_and_cranks.xml" text="Door and window handles and cranks"/>
+<category file="interior/door_handle_plates.xml" text="Door handle plates"/>
+<category file="interior/sun_visors.xml" text="Sun visors"/>
+</categories>

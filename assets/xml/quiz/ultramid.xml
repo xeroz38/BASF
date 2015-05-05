@@ -1,0 +1,74 @@
+<questions>
+    <question>
+        <text><![CDATA[What is the functional group of amide?]]></text>
+        <answers>
+            <answer correct="false"><![CDATA[-COOH]]></answer>
+            <answer correct="true"><![CDATA[-CONH-]]></answer>
+            <answer correct="false"><![CDATA[-CH=CH2]]></answer>
+        </answers>
+    </question>
+    <question>
+        <text><![CDATA[If the crystalinity is high, which property will be better?]]></text>
+        <answers>
+            <answer correct="true"><![CDATA[Chemical resistance]]></answer>
+            <answer correct="false"><![CDATA[Impact strength]]></answer>
+            <answer correct="false"><![CDATA[Warpage]]></answer>
+        </answers>
+    </question>
+    <question>
+        <text><![CDATA[Which one is not a special characteristic for polyamide?]]></text>
+        <answers>
+            <answer correct="false"><![CDATA[Semi crystalline]]></answer>
+            <answer correct="false"><![CDATA[High moisture uptake]]></answer>
+            <answer correct="true"><![CDATA[Amorphous]]></answer>
+        </answers>
+    </question>
+    <question>
+        <text><![CDATA[When we compare property between PA6 and PA66, which is correct?]]></text>
+        <answers>
+            <answer correct="true"><![CDATA[Water uptake property : PA6 --> higher, PA66 --> lower]]></answer>
+            <answer correct="false"><![CDATA[Chemical resistance : PA6 --> higher, PA66 --> lower]]></answer>
+            <answer correct="false"><![CDATA[Impact strength : PA6 --> lower, PA66 --> higher]]></answer>
+        </answers>
+    </question>
+    <question>
+        <text><![CDATA[Which is not a solvent for PA?]]></text>
+        <answers>
+            <answer correct="false"><![CDATA[m-Cresol]]></answer>
+            <answer correct="true"><![CDATA[Ketones]]></answer>
+            <answer correct="false"><![CDATA[Sulfuric acid]]></answer>
+        </answers>
+    </question>
+    <question>
+        <text><![CDATA[What is the allowed moisture content of Ultramid for injection molding?]]></text>
+        <answers>
+            <answer correct="true"><![CDATA[0.15%]]></answer>
+            <answer correct="false"><![CDATA[0.25%]]></answer>
+            <answer correct="false"><![CDATA[0.35%]]></answer>
+        </answers>
+    </question>
+    <question>
+        <text><![CDATA[What is the suitable injection molding process temperature range for reinforced Ultramid A?]]></text>
+        <answers>
+            <answer correct="false"><![CDATA[250°C - 270°C]]></answer>
+            <answer correct="false"><![CDATA[260°C - 280°C]]></answer>
+            <answer correct="true"><![CDATA[280°C - 300°C]]></answer>
+        </answers>
+    </question>
+    <question>
+        <text><![CDATA[Which is recommended mold temperature of Ultramid (without any core part)?]]></text>
+        <answers>
+            <answer correct="false"><![CDATA[40 - 50°C]]></answer>
+            <answer correct="true"><![CDATA[80 - 90°C]]></answer>
+            <answer correct="false"><![CDATA[100 - 110°C]]></answer>
+        </answers>
+    </question>
+    <question>
+        <text><![CDATA[Which is not suitable application for Ultramid?]]></text>
+        <answers>
+            <answer correct="false"><![CDATA[PAIM]]></answer>
+            <answer correct="true"><![CDATA[Lamp bezel]]></answer>
+            <answer correct="false"><![CDATA[Bearing cage]]></answer>
+        </answers>
+    </question>
+</questions>

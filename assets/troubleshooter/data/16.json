@@ -1,0 +1,15 @@
+{
+    "appearance":"The surface mark often has the appearance of a comet tail.<br/>Easily visible in the case of thin-walled or transparent parts.<br/>In thick-walled parts (not always visible) the cold slug results in an internal flaw or in a reduction of mechanical properties.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>When plastic material cools in the gating system or in the nozzle and arrives in the mold on the next shot. Because the already cooled material is not melted again, the cold slug can also close up flow channels. As a result of this, a division of the melt may arise with consequent surface faults comparable to weld line faults.</td></tr><tr><td valign='top'>2.</td><td valign='top'>An unheated or incorrectly heated machine nozzle.</td></tr><tr><td valign='top'>3.</td><td valign='top'>When, for example, the tip of the tunnel gate breaks off and lands with the next shot in the mold cavity (only arises with brittle materials such as SAN).</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Pay attention to correct and adequate temperature control of the nozzles; make the nozzle cross section large enough; operate with suitably timed and adequately dimensioned screw retraction and reduce the back pressure to such an extent that escape of material from the machine nozzle is prevented.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Provide a cold slug well in the runner which receives the cold slug; as far as possible gating should not be provided by means of a tunnel gate but rather via a hot runner/(brittle materials).</td></tr></table>",
+    "picture":[
+        {
+            "file":"16/figure1.png",
+            "caption":"Fig. 16.1: Cold slug with comet tail"
+        },
+        {
+            "file":"16/figure2.png",
+            "caption":"Fig. 16.2: Cold slug in vertical illumination, enlarged"
+        }
+    ]
+}

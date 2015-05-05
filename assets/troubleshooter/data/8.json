@@ -1,0 +1,15 @@
+{
+    "appearance":"Milky to whitish cloudiness (incident light is scattered diffusely).",
+    "cause":"Due to exceeding the maximum permissible yield point as a result of the following, for example.<table><tr><td valign='top'>1.</td><td valign='top'>Action of external force, arising for example from forcible demolding of undercuts.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Overstressing the component.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Internal stresses in the part due to inappropriate processing conditions.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Use of mold release sprays which may, for example, cause stress cracking.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Reduce the force acting on the molding from the out side or employ thermoplastics having lowersusceptibility to stress whitening.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Review part design to improve flow.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Increase mold surface and melt temperatures, reduce holding pressure and setting times andadjust injection speed; aim for low-stress processing in line with the requirements of the material; do notdemold under residual pressure; select the ejector mechanisms and demolding drafts in such a way thattrouble free demolding without relatively great force is ensured; alteration of sprue and gate conditions;modification of part design.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Employ suitable demolding aids.</td></tr></table>",
+    "picture":[
+        {
+            "file":"8/figure1.png",
+            "caption":"Fig. 8.1: Microcracks produced by overloading and deforming under residual pressure"
+        },
+        {
+            "file":"8/figure2.png",
+            "caption":"Fig. 8.2: a) Ballpoint pen with stress whitening in the thread region. (undercut). b) The same ballpoint pen without stress whitening."
+        }
+    ]
+}

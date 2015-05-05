@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#21a1d2"
+        android:gravity="left"
+        android:orientation="horizontal" >
+
+        <TextView
+            android:id="@+id/titlebold"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:padding="@dimen/padding_global"
+            android:textSize="@dimen/textsize_global_big"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/titlesmall"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/titlebold"
+            android:padding="@dimen/padding_global"
+            android:textSize="@dimen/textsize_global_big" />
+
+        <ImageView
+            android:id="@+id/favorite_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:contentDescription="@string/desc"
+            android:padding="@dimen/padding_global"
+            android:src="@drawable/favorites_off" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:background="#333333"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/prop_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@layout/detail_navigation_selector"
+            android:text="@string/properties"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textsize_global_medium"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/proc_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@layout/detail_navigation_selector"
+            android:text="@string/processing"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textsize_global_medium"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/flam_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@layout/detail_navigation_selector"
+            android:text="@string/flammability"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textsize_global_medium"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/mech_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@layout/detail_navigation_selector"
+            android:text="@string/mechanical"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textsize_global_medium"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/ther_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@layout/detail_navigation_selector"
+            android:text="@string/thermal"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textsize_global_medium"
+            android:visibility="gone" />
+
+        <Button
+            android:id="@+id/elec_btn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@layout/detail_navigation_selector"
+            android:text="@string/electrical"
+            android:textColor="@android:color/white"
+            android:textSize="@dimen/textsize_global_medium"
+            android:visibility="gone" />
+    </LinearLayout>
+
+    <WebView
+        android:id="@+id/detailweb"
+        android:layout_width="fill_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1" />
+
+    <include layout="@layout/bottom_navigation_bar" />
+
+</LinearLayout>

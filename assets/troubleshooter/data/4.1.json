@@ -1,0 +1,11 @@
+{
+    "appearance":"The air trapped during injection of the melt is visible as a cavity (air bubble) in the molded part. Air entrapments should not be confused with voids.",
+    "cause":"During mold filling, air is entrapped on account of an inopportune shape of the molding and if occluded in the peripheral region close to the surface this can give rise to bubbles.",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Reduce screw decompression or decompress at a reduced rate. (Especially if air entrapment is near gate)</td></tr><tr><td valign='top'>2.</td><td valign='top'>Optimize geometry of the mold with the aid of a mold flow calculation.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Check design and condition of mold vents.</td></tr></table>",
+    "picture":[
+        {
+            "file":"4.1/figure1.png",
+            "caption":"Fig. 4.1: Air entrapment"
+        }
+    ]
+}

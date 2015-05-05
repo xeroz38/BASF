@@ -1,0 +1,27 @@
+{
+    "appearance":"Injected parts generally having a gloss which is too low or too high.<br/>Nonuniform apparent gloss or color at certain areas.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>As a result of thick cross sections, such as abrupt changes in wall thickness, ribs and boss sink marks are produced which give rise to glossy spots in textured surfaces.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Mat spots often arise on glossy parts having complex geometry (jumps in wall thickness, ribs, openings) when at the same time the mold filling process is unsatisfactory.</td></tr><tr><td valign='top'>3.</td><td valign='top'>On weld lines due to flow conditions.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Sprue and gate cross sections are too small.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Mold wall temperature, melt temperature and injection speed are not favorable.</td></tr><tr><td valign='top'>6.</td><td valign='top'>Holding pressure and holding pressure time are too low.</td></tr><tr><td valign='top'>7.</td><td valign='top'>The plastic melt does not make uniform contact with the mold wall.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Avoid thick cross-sections and abrupt changes in wall thickness; Use uniform wall thickness.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Optimize the part and mold filling, e.g. injection profile (multistage injection). Polish the finished part.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Position weld lines where they are not visible (using flow promoters, flow inhibitors); mold flow studies alsoprovide guidance.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Have adequately sized sprue and gate cross sections.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Optimize the processing temperature.</td></tr><tr><td valign='top'>6.</td><td valign='top'>Adjust holding pressure and holding pressure time.</td></tr><tr><td valign='top'>7.</td><td valign='top'>Improve mold venting.</td></tr><tr><td valign='top'>8.</td><td valign='top'>Check mold cooling and coolant flow.</td></tr></table>",
+    "picture":[
+        {
+            "file":"7/figure1.png",
+            "caption":"Fig. 7.1: Differences in gloss on account of good (mat) or poor (glossy) mold reproduction"
+        },
+        {
+            "file":"7/figure2.png",
+            "caption":"Fig. 7.2: High reproduction accuracy (mat); scanning electron micrograph, magnification 50:1"
+        },
+        {
+            "file":"7/figure3.png",
+            "caption":"Fig. 7.3: High reproduction accuracy (mat); scanning electron micrograph, magnification 200:1"
+        },
+        {
+            "file":"7/figure4.png",
+            "caption":"Fig. 7.4: Poor reproduction accuracy (glossy); scanning electron micrograph, magnification 50:1"
+        },
+        {
+            "file":"7/figure5.png",
+            "caption":"Fig. 7.5: Poor reproduction accuracy (glossy); scanning electron micrograph, magnification 200:1"
+        }
+    ]
+}

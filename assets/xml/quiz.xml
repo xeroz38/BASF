@@ -1,0 +1,9 @@
+<quiz>
+    <category file="plant.xml"><![CDATA[Plant]]></category>
+    <category file="chemistry.xml"><![CDATA[Chemistry]]></category>
+    <category file="ultradur.xml"><![CDATA[Ultradur]]></category>
+    <category file="ultraform.xml"><![CDATA[Ultraform]]></category>
+    <category file="ultramid.xml"><![CDATA[Ultramid]]></category>
+    <category file="ultrason.xml"><![CDATA[Ultrason]]></category>
+    <category file="application_and_processing.xml"><![CDATA[Application and Processing]]></category>
+</quiz>

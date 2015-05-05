@@ -1,0 +1,23 @@
+{
+    "appearance":"Notches, hairlines\nChange in apparent color; especially when inorganic decorative effect pigments are used, the weld line appears as a dark line; conspicuous in dark, brilliant or transparent moldings having smooth surfaces polished to a high gloss.",
+    "cause":"Appear in multiphase systems such as ABS or ASA. Flow fronts having an already cooled peripheral layer encounter one another and no longer allow fusion without marks. Decorative effect pigments and, e. g., glass fibers tend to straighten up in the region of the weld line (adversely affecting appearance and usually mechanical properties also).",
+    "correction":"As far as possible, position weld lines where they have no visual or mechanical impact (flow promoters, flow inhibitors); check mold design: if necessary enlarge sprue channel, gate and machine nozzle; avoidance of abrupt changes in wall thickness and non-uniform mold filling;provide effective mold venting.<br/>Processing: Optimization of melt temperature, mold surface temperature and injection speed; new color formulation (organic or inorganic pigments, higher pigmentation). Use lower viscosity material.",
+    "picture":[
+        {
+            "file":"3/figure1.png",
+            "caption":"Fig. 3.1: Weld line notches; vertical illumination, magnification 11:1"
+        },
+        {
+            "file":"3/figure2.png",
+            "caption":"Fig. 3.2: Weld line notches; transmitted light, polished, magnification 560:1"
+        },
+        {
+            "file":"3/figure3.png",
+            "caption":"Fig. 3.3: Weld line (metallic effect coloring)"
+        },
+        {
+            "file":"3/figure4.png",
+            "caption":"Fig. 3.4: Color marking in the weld line; vertical illumination, dark field, magnification 52:1"
+        }
+    ]
+}

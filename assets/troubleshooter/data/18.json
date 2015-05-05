@@ -1,0 +1,11 @@
+{
+    "appearance":"Light refraction on the molding surface which create a rainbow effect.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Caused by high shear rate on large rubber particles.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Increase melt temperature.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Decrease injection speed.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Enlarge gate.</td></tr></table>",
+    "picture":[
+        {
+            "file":"18/figure1.png",
+            "caption":""
+        }
+    ]
+}

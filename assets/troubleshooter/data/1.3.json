@@ -1,0 +1,11 @@
+{
+    "appearance":"Streaks range from dark to black.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Processing using a screw which is too deeply flighted in the feed section (air intake).</td></tr><tr><td valign='top'>2.</td><td valign='top'>\"Dead spots\" in the plasticizing unit or hot runner system.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Defective non return valve.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Screw decompression is too great or too fast.</td></tr><tr><td valign='top'>5.</td><td valign='top'>See Diesel effect (Item 9).</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Raise temperature in feed section so that melting is earlier; use more suitable screw.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Check plasticizing unit and hot runners for zones of impeded flow and if necessary correct them.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Replace defective non return valve.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Shorten path for screw decompression or decompress at a reduced rate.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Improve mold vent operation/design.</td></tr></table>",
+    "picture":[
+        {
+            "file":"1.3/figure1.png",
+            "caption": "Fig. 1.3.1: Dark streaks caused by deposits of thermally damaged material  from the hot runner"
+        }
+    ]
+}

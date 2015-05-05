@@ -1,0 +1,19 @@
+{
+    "appearance":"Scorching or black colorations at the end of the flow path or at points of confluence of melt streams (entrapped air).",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Poor venting of mold at flow path ends or</td></tr><tr><td valign='top'>2.</td><td valign='top'>Confluence of several melt fronts.<br/>In both cases the air to be displaced from the mold cavity is highly compressed and so overheated that the plastic melt chars locally.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Provide effective venting in the critical regions; reduce injection speed, and melt temperature.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Identify critical points at the planning stage using a moldflow simulation, for example, and correct the shape, gate location and wall thickness-distribution of the part by modifications.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Decrease clamp force to provide a temporary solution.</td></tr></table>",
+    "picture":[
+        {
+            "file":"9/figure1.png",
+            "caption":"Fig. 9.1: Scorch marks due to poor mold venting at the end of the flow path"
+        },
+        {
+            "file":"9/figure2.png",
+            "caption":"Fig. 9.2: Local charring on ribs due to lack of mold venting"
+        },
+        {
+            "file":"9/figure3.png",
+            "caption":"Fig. 9.3: Black discoloration at the confluence of two melt fronts"
+        }
+    ]
+}

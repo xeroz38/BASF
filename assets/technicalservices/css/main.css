@@ -1,0 +1,80 @@
+/* CSS Document */
+body {
+    margin: 0px;
+    background-color: #efefef;
+}
+
+.header {
+    font-family: sans-serif;
+	font-size:1.2em;
+	font-weight:bold;
+    color: #ffffff;
+    font-style: 75 bold;
+}
+.header-coloum {
+    height: 30px;
+    background-color: #21a0d2;
+    padding-top: 0.5em;
+}
+
+.coloum {
+    background-color: #efefef;
+
+}
+
+.coloum-text {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 0.5em;
+    border-bottom: solid 1px #CCCCCC;
+}
+
+.sub-text {
+    color: #333333;
+    font-family: sans-serif;
+}
+
+.coloum-image {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+    padding-right: 0.5em;
+    border-bottom: solid 1px #CCCCCC;
+}
+
+.section {
+font-size:1em;
+    color: #333333;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+.main-table {
+    border-color: #600;
+    border-width: 0 0 0 0;
+    border-style: solid;
+}
+
+.left-space{
+padding-left: 5px;
+padding-top:20px;
+padding-bottom:10px;
+width: 20px;
+}
+
+.td-image{
+padding-bottom:10px;
+}
+
+.td-height{
+padding-top:10px;
+padding-bottom:10px;
+}
+.td-content {
+    border-bottom: solid 1px #CCCCCC;
+}
+
+.li-style {
+    color: #21a0d2;
+
+}
+

@@ -1,0 +1,23 @@
+{
+    "appearance":"Detached, slate-like surface layers, e.g. due to cross cutting; usually not easy to identify since the surface is flawless; a \"skin\" can often be pulled off when the surface is scratched with a blade. The molded part exhibits bubbling after warm storage.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>High shear stress result in the formation of layers;even in compatible multiphase systems.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Contamination with an incompatible thermoplastic or master batch.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Increase melt temperature & reduce injection speed.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Avoid contamination due to extraneous material or due to an unsuitable master batch (specifically the carrier).</td></tr></table>",
+    "picture":[
+        {
+            "file":"2/figure1.png",
+            "caption":"Fig. 2.1: Peeling and delamination caused by contamination of other plastics in the granules"
+        },
+        {
+            "file":"2/figure2.png",
+            "caption":"Fig. 2.2: Partial cross section through\nFig. 2.1: (sample thickness 1.5 mm)"
+        },
+        {
+            "file":"2/figure3.png",
+            "caption":"Fig. 2.3: Position 1"
+        },
+        {
+            "file":"2/figure4.png",
+            "caption":"Fig. 2.4: Position 2"
+        }
+    ]
+}

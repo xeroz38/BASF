@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="padding_global">7dp</dimen>
+    <dimen name="padding_global_big">7dp</dimen>
+    <dimen name="textsize_global_title">20sp</dimen>
+    <dimen name="textsize_global_big">18sp</dimen>
+    <dimen name="textsize_global_medium">14sp</dimen>
+    <dimen name="textsize_global_small">12sp</dimen>
+    <dimen name="textsize_global">16sp</dimen>
+    <dimen name="margin_main_menu">17dp</dimen>
+    <dimen name="spacing_global">10dp</dimen>
+    
+</resources>

@@ -1,0 +1,11 @@
+{
+    "appearance":"Grooved surface which propagates along the course of the melt front, predominantly at the end of the flow path. Also known as finger prints, melt chatter or hesitation.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Melt and mold surface temperatures and injection speed too low and flow cross section too small.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Explanation: Rapid cooling of the flow front regions close to the wall (frozen peripheral layer) causes flow resistance in the molding cavity to rise and the otherwise uniform, laminar spread of the plastic melt to the wall to stagnate intermittently. The plastic melt does not make full contact with the mold wall.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Increase melt temperature, mold surface temperature and screw advance speed.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Enlarge the flow cross sections and optimize the shape of the molding.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Reduction of the flow path lengths by means of additional sprue gates.</td></tr></table>",
+    "picture":[
+        {
+            "file":"12/figure1.png",
+            "caption":"Fig. 12.1: Record effect as a result of the melt temperature and injection speed being too low"
+        }
+    ]
+}

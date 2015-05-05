@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories multilevel="false"><category file="automotive/airbag_sensors.xml" text="Airbag sensors"/>
+<category file="automotive/steering_wheel_angle_sensor.xml" text="Steering wheel angle sensor"/>
+<category file="automotive/door_control.xml" text="Door control"/>
+<category file="automotive/seat_control.xml" text="Seat control"/>
+<category file="automotive/mass_air_flow_sensor.xml" text="Mass air-flow sensor"/>
+<category file="automotive/oil_sensor.xml" text="Oil sensor"/>
+<category file="automotive/transmission_control.xml" text="Transmission control"/>
+<category file="automotive/connectors.xml" text="Connectors"/>
+<category file="automotive/electric_motor_housing.xml" text="Electric motor housings"/>
+<category file="automotive/electronics_modules.xml" text="Electronics modules"/>
+<category file="automotive/fastener_clips.xml" text="Fasteners, clips"/>
+<category file="automotive/headlamp_units.xml" text="Headlamp units"/>
+<category file="automotive/other_lighting_switches_etc.xml" text="Other lighting, switches, etc."/>
+</categories>

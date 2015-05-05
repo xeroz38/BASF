@@ -1,0 +1,11 @@
+{
+    "appearance":"Moldings exhibit flash formation,<br/>e. g. at the mold parting surface.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Fitting tolerances of the two halves of the molding are too great or the mold parting line is damaged.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Clamp force of the machine is inadequate or is set too low.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Melt temperature, injection speed or internal mold pressure is too high.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Adjust mold to permissible fitting tolerances and repair existing damage in mold parting line.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Set the clamp force higher or change to a larger machine.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Lower the injection pressure, injection speed or holding pressure or switch earlier from injection to holding pressure.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Reduce melt temperature and mold temperature.</td></tr></table>",
+    "picture":[
+        {
+            "file":"14/figure1.png",
+            "caption":"Fig. 14.1: Flash formation as a result of the clamp force of the machine being set too low"
+        }
+    ]
+}

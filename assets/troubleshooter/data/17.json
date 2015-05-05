@@ -1,0 +1,11 @@
+{
+    "appearance":"Molding exhibits deformations and twists (deviation from desired shape).",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Unsuitable molding design and distinct differences in wall thickness resulting in different internal mold pressures and in different shrinkage behavior.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Incorrect position and design of sprue.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Due to incorrect setting of mold temperature and injection speed as well as unsuitable design of mold temperature control.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Avoid internal stresses and alignments by the correct choice of material and parts geometry (balancing wall thicknesses); optimization of the molding with the aid of computer programs (e. g. moldflow study).</td></tr><tr><td valign='top'>2.</td><td valign='top'>Check the sprue location and match it to the molded part to be produced.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Optimization of processing conditions.</td></tr></table>",
+    "picture":[
+        {
+            "file":"17/figure1.png",
+            "caption":"Fig. 17.1: Distorted frame resulting from unfavorable part geometry (thick walled edge in this case) when the sprue position is the incorrect thin wall area"
+        }
+    ]
+}

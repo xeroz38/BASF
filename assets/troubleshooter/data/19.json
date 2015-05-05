@@ -1,0 +1,11 @@
+{
+    "appearance":"When part details from the ejector side of the part shows up on the show surface.",
+    "cause":"<table><tr><td valign='top'>1.</td><td valign='top'>Read ejector pins, date stamps are caused byoverpacking.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Read ribs or bosses without sink marks.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Increase melt temperature. Increase injection speed.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Modify part design, avoid oversized wall thickness on ribs and bosses.</td></tr></table>",
+    "picture":[
+        {
+            "file":"19/figure1.png",
+            "caption":""
+        }
+    ]
+}

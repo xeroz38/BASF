@@ -1,0 +1,19 @@
+{
+    "appearance":"Generally a snake-like jet of melt visible on the surface of the molding.<br/>The strand of melt is often rough, mat and exhibits differences in gloss or color with respect to the remainder of the molding.",
+    "cause":"The jet of melt shoots directly in the open cavity without any wall contact (no laminar flow). Since the outer skin cools there is no longer any homogeneous connection to the rest of the melt; the results are weld lines, inhomogeneities, cold forming and local internal stresses.<br/>1. Due to the wrong choice of gate location and design.",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Optimize injection velocity.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Position the gate in such a way that the jet of melt strikes a mold wall or a baffle plate (laminar flow).</td></tr><tr><td valign='top'>3.</td><td valign='top'>Use higher viscosity material.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Use profiled injection velocity (slow to normal) may provide a temporary solution.</td></tr></table>",
+    "picture":[
+        {
+            "file":"15/figure1.png",
+            "caption":"Fig. 15.1: Formation of jets of material with reference to the example of a peg"
+        },
+        {
+            "file":"15/figure2.png",
+            "caption":"Fig. 15.2: Jetting due to unsuitable choice of gate location and design"
+        },
+        {
+            "file":"15/figure3.png",
+            "caption":"Fig. 15.3: Jetting on a flat transparent part"
+        }
+    ]
+}

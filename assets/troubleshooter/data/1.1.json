@@ -1,0 +1,15 @@
+{
+    "appearance":"Usually oblong, silvery surface streaks which are open in the shape of a U counter to the direction of flow. The material pumped out of the cylinder is foamed and shows blisters on the surface.",
+    "cause":"Moisture content too high; water vapor produced during melting results in surface of molding being torn open.",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Material is adequately predried to residual moisture content of &lt; 0.1 &#37;</td></tr><tr><td valign='top'>2.</td><td valign='top'>Increase back pressure.</td></tr></table>",
+    "picture":[
+        {
+            "file":"1.1/figure1.png",
+            "caption":"Fig. 1.1.1: Streaks due to an excessively high moisture content in the granules"
+        },
+        {
+            "file":"1.1/figure2.png",
+            "caption":"Fig. 1.1.2: Section through a tom streak, transmitted light,  magnification 80: 7"
+        }
+    ]
+}

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BASF</string>
+    <string name="product_finder">Product Finder</string>
+    <string name="troubleshooter">Injection Molding Troubleshooter</string>
+    <string name="technical_service">Technical Support</string>
+    <string name="quiz">Quiz</string>
+    <string name="favorites">Favorites</string>
+    <string name="contact_us">Contact Us</string>
+    <string name="powertrain">Powertrain/Chassis</string>
+    <string name="interior">Interior</string>
+    <string name="listapplications">List Applications</string>
+    <string name="exterior">Exterior</string>
+    <string name="autoee">Automotive E/E</string>
+    <string name="properties">Properties</string>
+    <string name="processing">Processing</string>
+    <string name="mechanical">Mechanical</string>
+    <string name="thermal">Thermal</string>
+    <string name="electrical">Electrical</string>
+	<string name="flammability">Flammability</string>
+    <string name="appearance">Appearance</string>
+    <string name="cause">Cause</string>
+    <string name="correction">Correction</string>
+    <string name="accept">Accept</string>
+    <string name="decline">Decline</string>
+    <string name="desc">Image View</string>
+
+</resources>

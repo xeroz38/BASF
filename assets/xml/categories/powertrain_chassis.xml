@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories multilevel="true"><category file="powertrain_chassis/air_system.xml" text="Air System">
+<subcategory file="powertrain_chassis/air_system/air_intake_manifolds.xml" text="Air intake manifolds"/>
+<subcategory file="powertrain_chassis/air_system/engine_covers.xml" text="Engine covers"/>
+</category>
+<category file="powertrain_chassis/cooling_system.xml" text="Cooling System">
+<subcategory file="powertrain_chassis/cooling_system/cooling_pipe.xml" text="Cooling pipe"/>
+<subcategory file="powertrain_chassis/cooling_system/cooling_fans.xml" text="Cooling fans"/>
+<subcategory file="powertrain_chassis/cooling_system/heat_exchanger_ro_intercooler.xml" text="Heat exchangers / Intercooler"/>
+<subcategory file="powertrain_chassis/cooling_system/thermostats.xml" text="Thermostats"/>
+<subcategory file="powertrain_chassis/cooling_system/radioator_end_tank.xml" text="Radiator end tank"/>
+<subcategory file="powertrain_chassis/cooling_system/intercooler_end_caps.xml" text="Intercooler end caps"/>
+</category>
+<category file="powertrain_chassis/oil_system.xml" text="Oil System">
+<subcategory file="powertrain_chassis/oil_system/cylinder_head_covers.xml" text="Cylinder head covers"/>
+<subcategory file="powertrain_chassis/oil_system/oil_pans.xml" text="Oil pans"/>
+<subcategory file="powertrain_chassis/oil_system/oil_pump_parts.xml" text="Oil pump parts"/>
+</category>
+<category file="powertrain_chassis/fuel_system.xml" text="Fuel System">
+<subcategory file="powertrain_chassis/fuel_system/fuel_pump_impellers.xml" text="Fuel pump impellers"/>
+<subcategory file="powertrain_chassis/fuel_system/fuel_pressure_sensor.xml" text="Fuel pressure sensor"/>
+<subcategory file="powertrain_chassis/fuel_system/function_fuel_tank_parts.xml" text="Functional fuel tank parts"/>
+</category>
+<category file="powertrain_chassis/others.xml" text="Others">
+<subcategory file="powertrain_chassis/others/bearings_and_sliding_elements.xml" text="Bearings and sliding elements"/>
+<subcategory file="powertrain_chassis/others/hybrid_technology.xml" text="Hybrid technology"/>
+<subcategory file="powertrain_chassis/others/pedal_system.xml" text="Pedal systems"/>
+<subcategory file="powertrain_chassis/others/torque_rods.xml" text="Torque rods"/>
+<subcategory file="powertrain_chassis/others/engine_mounts_and_brackets.xml" text="Engine mounts and brackets"/>
+<subcategory file="powertrain_chassis/others/front_end.xml" text="Front-End"/>
+<subcategory file="powertrain_chassis/others/gearbox_tunnel.xml" text="Gearbox tunnel"/>
+<subcategory file="powertrain_chassis/others/heat_shield.xml" text="Heat shield"/>
+<subcategory file="powertrain_chassis/others/hoodliner.xml" text="Hoodliner"/>
+</category>
+</categories>

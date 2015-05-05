@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<categories multilevel="false"><category file="exterior/wheel_covers.xml" text="Wheel covers"/>
+<category file="exterior/bezel.xml" text="Bezel"/>
+<category file="exterior/door_handles.xml" text="Door handles"/>
+<category file="exterior/exterior_mirrors.xml" text="Exterior mirrors"/>
+<category file="exterior/sunroof_frames.xml" text="Sunroof frames"/>
+</categories>

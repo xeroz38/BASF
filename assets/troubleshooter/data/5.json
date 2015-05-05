@@ -1,0 +1,15 @@
+{
+    "appearance":"Depressions on the surface of the molded part.",
+    "cause":"Sink marks are always produced in regions of accumulation of material when the contraction in volume arising during the cooling phase cannot be adequately compensated for by the holding pressure.",
+    "correction":"Avoid large differences in wall thickness and accumulations of material (e.g. by means of rib structures having large radii, fixing domes, etc.); a rib thickness of 0.5 - 0.7 times the basic wall thickness is advantageous.<br/>Check for correct temperature control.<br/>Optimize melt and mold temperature; set the holding pressure, holding pressure time and melt cushion to adequate dimensions (increase values).<br/>Gate at the greatest wall thickness;design the sprue and gate cross sections in keeping with the material and molded part.<br/>Cool thick-walled parts in cold water (freezing of the peripheral layer) in order to shorten the setting time.<br/>Check screw valve design and condition.",
+    "picture":[
+        {
+            "file":"5/figure1.png",
+            "caption":"Fig. 5.1: Sink mark on the visible side (Cause: Melt accumulation as shown in Fig. 5.2)"
+        },
+        {
+            "file":"5/figure2.png",
+            "caption":"Fig. 5.2: Accumulation of melt (avoidable by suitable recessing)"
+        }
+    ]
+}

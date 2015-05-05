@@ -1,0 +1,11 @@
+{
+    "appearance":"Concentric, evenly spaced rings as a result of differences in surface roughness appear alternately light and dark.",
+    "cause":"Thermoplastic multiphase systems can tend towards pulsating melt flow.<table><tr><td valign='top'>1.</td><td valign='top'>Cross section of sprue and gate too small.</td></tr><tr><td valign='top'>2.</td><td valign='top'>High pressure losses in machine and hot runner nozzle.</td></tr><tr><td valign='top'>3.</td><td valign='top'>Wall thicknesses too low/Wall thickness variations.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Inadequate flowability of the molding compound.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Only occasionally are unsuitable processing conditions the cause.</td></tr></table>",
+    "correction":"<table><tr><td valign='top'>1.</td><td valign='top'>Enlarging the sprue and/or runner cross section.</td></tr><tr><td valign='top'>2.</td><td valign='top'>Reduce pressure losses in the machine and hot runner nozzle.</td></tr><tr><td valign='top'>3.</td><td valign='top'>In the case of thin-walled molding with large surfaces increasing the wall thickness often yields success. Avoiddramatic wall thickness changes.</td></tr><tr><td valign='top'>4.</td><td valign='top'>Employ a better flowing material grade.</td></tr><tr><td valign='top'>5.</td><td valign='top'>Optimize the processing parameters (high melt temperature, high mold surface temperature, medium to lowinjection speed and high holding pressure/improve venting).</td></tr>   <tr><td valign='top'>6.</td><td valign='top'>On a sprue-gated part, use a cold well opposite sprue.</td></tr></table>",
+    "picture":[
+        {
+            "file":"11/figure1.png",
+            "caption":"Fig. 11.1: a) Tiger stripes as a result of the sprue cross section being too small. b) Remedied by enlarging the sprue cross section"
+        }
+    ]
+}
